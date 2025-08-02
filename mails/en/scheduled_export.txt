@@ -1,0 +1,12 @@
+Hello,
+
+Your scheduled CSV export has been successfully completed.
+
+Export Type: {export_type}
+Export Date: {export_date}
+Download Link: {download_link}
+
+If you did not request this export, please ignore this message.
+
+Best regards,  
+{shop_name}

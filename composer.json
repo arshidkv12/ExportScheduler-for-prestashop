@@ -1,0 +1,16 @@
+{
+    "require": {
+        "shuchkin/simplexlsxgen": "^1.5"
+    },
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "PrestaShop SA",
+            "email": "contact@prestashop.com"
+        }
+    ],
+    "config": {
+        "prepend-autoloader": false
+    },
+    "license": "AFL-3.0"
+}
