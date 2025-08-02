@@ -4,6 +4,8 @@
 
 ---
 
+![Screenshot](https://github.com/arshidkv12/ExportScheduler-for-prestashop/blob/main/docs/Screenshot-1.png?raw=true)
+
 ## ✨ Features
 
 - Export order data in **CSV** or **XLSX** format.
