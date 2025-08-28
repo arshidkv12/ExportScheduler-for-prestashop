@@ -21,6 +21,9 @@
 
 ---
 
+Feel free to email me at info@mailmug.net — I’m available to customize PrestaShop for you.
+
+
 ## 📦 Installation
 
 1. Download the module as a ZIP file.
